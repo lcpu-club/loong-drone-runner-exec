@@ -1,6 +1,6 @@
 module github.com/drone-runners/drone-runner-exec
 
-go 1.17
+go 1.21
 
 require (
 	github.com/buildkite/yaml v2.1.0+incompatible
